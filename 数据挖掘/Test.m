@@ -1,0 +1,4 @@
+%csv Êý¾Ý¶ÁÈ¡
+clear,clc;
+
+items = importdata('2.csv',',',0);

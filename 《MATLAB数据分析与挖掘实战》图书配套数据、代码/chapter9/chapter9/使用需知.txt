@@ -1,0 +1,4 @@
+本附件仅针对学生自学使用，为方便教师授课需要，泰迪科技（www.tipdm.com）还特意提供了教学所需的过程数据文件、PPT课件，以及基于MATLAB、SAS EM、SPSS Modeler、R、Python、TipDM等上机实验环境下的数据挖掘各阶段程序/模型及相关代码，以及教师培训和学生实践实训。
+
+详情见：《顶尖数据挖掘辅助教学套件（TipDM-T6）产品白皮书》或泰迪官网说明：
+        http://www.tipdm.com/html/p/id12.html

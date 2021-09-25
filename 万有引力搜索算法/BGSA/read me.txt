@@ -1,0 +1,23 @@
+
+
+functions:
+
+Main.m : Main function for using BGSA algorithm.
+
+BGSA.m : Binary Gravitational Search Algorithm.
+
+Binitialization.m : initializes the position of agents in the binary search space, randomly.
+
+BGfield.m : calculates the accelaration of each agent in gravitational field.
+
+Bmove.m : updates the velocity and the position of agents.
+
+massCalculation.m : calculates the mass of each agent.
+
+BGconstant.m : calculates Gravitational constant.
+
+evaluateF.m : Evaluates the agents.
+
+test_functions.m : calculates the value of objective function.
+
+test_functions_range.m : gives the boundaries and the dimension of search space for each test function.
